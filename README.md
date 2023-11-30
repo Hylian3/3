@@ -11,3 +11,5 @@ Launch on Starknet
 
 Crypto
 NFT
+
+DeFi
