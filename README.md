@@ -10,3 +10,4 @@ Research new possibilites with skills and technology
 Launch on Starknet
 
 Crypto
+NFT
